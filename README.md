@@ -1,4 +1,4 @@
-# Simple CommandLine Calculator
+# Simple Command Line Calculator
 A simple command line calculator that is nice practice exercise of getting used to the C programming language
 
 ## Functions
